@@ -1,0 +1,61 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u416002228",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bang_level" : [ 128 ],
+					"bang_thresh" : [ 14.740157 ],
+					"compr_level" : [ 128 ],
+					"compr_target_level" : [ 16.629921 ],
+					"in_level" : [ 128 ],
+					"out_level" : [ 128 ],
+					"tone_level" : [ 128 ],
+					"compressor::compr_ramp_down" : [ 100.0 ],
+					"compressor::compr_ramp_up" : [ 20.0 ],
+					"midi_routing::u493002596" : [  ],
+					"midi_routing::u838002283" : [ 128 ],
+					"midi_routing::u885002280" : [ 128 ],
+					"midi_routing::u092002277" : [ 128 ],
+					"midi_routing::u967002274" : [ 128 ],
+					"midi_routing::u143002271" : [ 14.740157 ],
+					"midi_routing::u872002252" : [ 128 ],
+					"midi_routing::u331002233" : [ 16.629921 ],
+					"midi_routing::c[1]::ch_num" : [ 7 ],
+					"midi_routing::c[1]::ctrl_ch" : [ 1 ],
+					"midi_routing::c[1]::ctrl_max" : [ 158.0 ],
+					"midi_routing::c[1]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[2]::ch_num" : [ 7 ],
+					"midi_routing::c[2]::ctrl_ch" : [ 2 ],
+					"midi_routing::c[2]::ctrl_max" : [ 158.0 ],
+					"midi_routing::c[2]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[3]::ch_num" : [ 7 ],
+					"midi_routing::c[3]::ctrl_ch" : [ 3 ],
+					"midi_routing::c[3]::ctrl_max" : [ 158.0 ],
+					"midi_routing::c[3]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[4]::ch_num" : [ 7 ],
+					"midi_routing::c[4]::ctrl_ch" : [ 4 ],
+					"midi_routing::c[4]::ctrl_max" : [ 158.0 ],
+					"midi_routing::c[4]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[5]::ch_num" : [ 10 ],
+					"midi_routing::c[5]::ctrl_ch" : [ 2 ],
+					"midi_routing::c[5]::ctrl_max" : [ 48.0 ],
+					"midi_routing::c[5]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[6]::ch_num" : [ 7 ],
+					"midi_routing::c[6]::ctrl_ch" : [ 8 ],
+					"midi_routing::c[6]::ctrl_max" : [ 158.0 ],
+					"midi_routing::c[6]::ctrl_min" : [ 0.0 ],
+					"midi_routing::c[7]::ch_num" : [ 10 ],
+					"midi_routing::c[7]::ctrl_ch" : [ 4 ],
+					"midi_routing::c[7]::ctrl_max" : [ 48.0 ],
+					"midi_routing::c[7]::ctrl_min" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
