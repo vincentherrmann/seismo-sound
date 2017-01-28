@@ -5,7 +5,7 @@
 			"major" : 6,
 			"minor" : 1,
 			"revision" : 10,
-			"architecture" : "x86"
+			"architecture" : "x64"
 		}
 ,
 		"rect" : [ 800.0, 155.0, 640.0, 480.0 ],
@@ -86,6 +86,8 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-6",
+					"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
+					"logmarkers" : [ 0.0, 100.0, 1000.0, 10000.0 ],
 					"maxclass" : "filtergraph~",
 					"nfilters" : 1,
 					"numinlets" : 8,
@@ -93,7 +95,7 @@
 					"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 333.0, 150.126007, 256.0, 128.0 ],
-					"setfilter" : [ 0, 1, 1, 0, 0, 68.823936, 0.57451, 4.845745, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+					"setfilter" : [ 0, 1, 1, 0, 0, 208.947174, 0.550129, 4.845745, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 				}
 
 			}
@@ -120,6 +122,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 153.0, 430.0, 44.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "out~ 1"
 				}
 
@@ -134,6 +140,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 153.0, 108.0, 30.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "in 1"
 				}
 
@@ -189,8 +199,8 @@
 					"numinlets" : 5,
 					"numoutlets" : 4,
 					"outlettype" : [ "signal", "signal", "", "" ],
-					"patching_rect" : [ 153.0, 188.0, 131.0, 20.0 ],
-					"text" : "adsr~ 100 1000 0. 100"
+					"patching_rect" : [ 153.0, 188.0, 118.0, 20.0 ],
+					"text" : "adsr~ 20 500 0. 100"
 				}
 
 			}
